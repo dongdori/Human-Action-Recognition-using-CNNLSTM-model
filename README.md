@@ -5,5 +5,6 @@ Easily, model have to predict whether it is benchpress or squat or jumpsquat etc
 
 ## 2. Approach
 I augmented data by random rolling(np.roll()) and used CNNLSTM model.
+My model achieved top 10% on Dacon Fitness Action Classification competition. 
 
 You can check my notebook to check detailed implementation!
